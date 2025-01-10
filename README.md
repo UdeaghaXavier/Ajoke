@@ -9,8 +9,8 @@ Ajoke is a story-driven puzzle game featuring engaging narratives, challenging p
 - **Atmospheric Soundtrack**: Immerse yourself in the world with a complementary audio experience.  
 
 ## Team  
-- **Programmer**: [Your Name]  
-- **Artist**: Daniel  
+- **Programmer**: Udeagha Xavier 
+- **Artist**: Daniel Ottah  
 
 ## Current Status  
 Ajoke is currently in development. We are actively working to refine the visuals, puzzles, and story to deliver an unforgettable experience.  
